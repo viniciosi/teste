@@ -1,0 +1,14 @@
+/app/publish/WebAPILambda
+/app/publish/appsettings.Development.json
+/app/publish/appsettings.json
+/app/publish/aws-lambda-tools-defaults.json
+/app/publish/WebAPILambda.dll
+/app/publish/WebAPILambda.deps.json
+/app/publish/WebAPILambda.runtimeconfig.json
+/app/publish/WebAPILambda.pdb
+/app/publish/Amazon.Lambda.APIGatewayEvents.dll
+/app/publish/Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+/app/publish/Amazon.Lambda.AspNetCoreServer.dll
+/app/publish/Amazon.Lambda.Core.dll
+/app/publish/Amazon.Lambda.Logging.AspNetCore.dll
+/app/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
