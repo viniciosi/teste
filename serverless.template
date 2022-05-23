@@ -9,7 +9,7 @@
       "Type": "AWS::Serverless::Function",
       "Properties": {
         "Handler": "WebAPILambda::WebAPILambda.LambdaEntryPoint::FunctionHandlerAsync",
-        "Runtime": "dotnetcore3.1",
+        "Runtime": "provided.al2",
         "CodeUri": "",
         "MemorySize": 256,
         "Timeout": 30,
